@@ -1,4 +1,3 @@
-# Handling Exception for Rest api
 
 # Types of Exceptions in Spring Boot
 
