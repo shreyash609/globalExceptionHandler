@@ -1,8 +1,8 @@
 # Handling Exception for Rest api
 
-#Types of Exception in Spring Boot
+# Types of Exceptions in Spring Boot
 
-There are two types of exception handling in spring Boot
+There are two types of exception handling in Spring Boot:
 
-1.Local Excaption 
-2.Global Exception
+1. Local Exception
+2. Global Exception
