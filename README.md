@@ -5,4 +5,5 @@
 #There are two types of exception handling in spring Boot
 
 #1.Local Excaption 
+
 #2.Global Exception
