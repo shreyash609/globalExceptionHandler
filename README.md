@@ -6,9 +6,9 @@ There are two types of exception handling in Spring Boot:
 1. Local Exception
 2. Global Exception
 
-1.Local Exception : This exception is particular to specific RestController class only
+1.Local Exception Handling :It is used to handle specific class Exception in the project.
 
-2.Global Exception : This exception is for the whole project.
+2.Global Exception Handling: It is used to handle Exception of all the classes in the proejct.
 
 Following are the Annotations for Exception handling in spring Boot
 
